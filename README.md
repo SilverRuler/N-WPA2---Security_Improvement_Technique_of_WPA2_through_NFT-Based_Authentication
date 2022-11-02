@@ -12,7 +12,7 @@ OpenWRT must be installed on the server. The OS installation process will not be
 The product used in STA is any x86-based architecture window10 machine.<br/>
 <br/>
 Importing values from blockchain through JavaScript and monitoring blockchain have been referred to the following links a lot.<br/> https://www.youtube.com/channel/UCj8eNn2MxSUB1wf5y6FR1WQ<br/>
-Writing Smart Contracts referred to OpenZeppelin's API.<br/> https://www.openzeppelin.com/<br/>
+Smart contract code writing referenced OpenZeppelin's API<br/> https://www.openzeppelin.com/<br/>
 <br/>
 Three codes run on the server side, and one program runs on the client side (STA).<br/>
 <br/>
