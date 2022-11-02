@@ -9,11 +9,11 @@ It was defined and implemented at the will of the author.<br/>
 The product used for the server is the Raspberry Pi 4B model.<br/>
 OpenWRT must be installed on the server. The OS installation process will not be described. See https://openwrt.org/<br/>
 <br/>
-The product used in STA is any x86-based architecture machine window10.<br/>
+The product used in STA is any x86-based architecture window10 machine.<br/>
 <br/>
 Importing values from blockchain through JavaScript and monitoring blockchain have been referred to the following links a lot.<br/> https://www.youtube.com/channel/UCj8eNn2MxSUB1wf5y6FR1WQ<br/>
 For smart contract writing, refer to OpenZeppelin's API.<br/> https://www.openzeppelin.com/<br/>
 <br/>
-Three codes run on the server side, and one program runs on the client side (STA)<br/>
+Three codes run on the server side, and one program runs on the client side (STA).<br/>
 <br/>
 Thank you Bro.O for helping me make this code.<br/>
