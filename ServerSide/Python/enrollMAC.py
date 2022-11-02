@@ -9,7 +9,7 @@ temp.close()
 
 bu = open("/etc/config/wireless", 'w')
 bu.writelines(tempbr)
-#bu.write("        list maclist '58:86:94:25:DD:58'")
+
 bu.write("        list maclist '")
 bu.write(STAmac)
 bu.write("'")
