@@ -1,7 +1,7 @@
 # N-WPA2 220919 ver.<br/>
 Sogang Univ. Computer Science and Engineering Dept. of BaSE Lab(Prof. Soo-yong Park) <br/>
 2022 Graduate Thesis Code by SilverRuler <br/>
-Copyright. SR <br/>
+Copyright © SR. All Rights Reserved. <br/>
 -------------------------------------
 The variables in this code are not intuitive.<br/>
 It was defined and implemented at the will of the author.<br/>
