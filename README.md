@@ -1,5 +1,5 @@
 # N-WPA2 220919 ver.<br/>
-Sogang Univ. Computer Science and Engineering Dept. of BaSE Lab(Prof. Soo-yong Park) <br/>
+Sogang Univ. BaSE Lab(Prof. Soo-yong Park) of Computer Science and Engineering Dept.<br/>
 2022 Graduate Thesis Code by SilverRuler <br/>
 Copyright © SR. All Rights Reserved. <br/>
 -------------------------------------
@@ -17,3 +17,8 @@ Smart contract code writing referenced OpenZeppelin's API<br/> https://www.openz
 Three codes run on the server side, and one program runs on the client side (STA).<br/>
 <br/>
 Thank you Bro.O for helping me make this code.<br/>
+
+-------------------------------------
+THESIS URl:
+https://library.sogang.ac.kr/search/detail/
+(Not yet Published)
