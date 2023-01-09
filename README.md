@@ -19,6 +19,6 @@ Three codes run on the server side, and one program runs on the client side (STA
 Thank you Bro.O for helping me make this code.<br/>
 
 -------------------------------------
-THESIS URl:
+THESIS URl: <br/>
 https://library.sogang.ac.kr/search/detail/(Not yet Published)
 https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000069812
