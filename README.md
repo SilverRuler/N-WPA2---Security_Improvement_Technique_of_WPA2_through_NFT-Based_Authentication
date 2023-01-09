@@ -1,5 +1,4 @@
-# Security Improvement Technique of WPA2 through NFT-Based Authentication
-# N-WPA2 220919 ver.<br/>
+# Security Improvement Technique of WPA2 through NFT-Based Authentication (N-WPA2 220919 ver.)<br/>
 Sogang Univ. BaSE Lab(Prof. Soo-yong Park) of Computer Science and Engineering Dept.<br/>
 2022 Graduate Thesis Code by SilverRuler <br/>
 Copyright © SR. All Rights Reserved. <br/>
