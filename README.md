@@ -1,3 +1,4 @@
+# Security Improvement Technique of WPA2 through NFT-Based Authentication
 # N-WPA2 220919 ver.<br/>
 Sogang Univ. BaSE Lab(Prof. Soo-yong Park) of Computer Science and Engineering Dept.<br/>
 2022 Graduate Thesis Code by SilverRuler <br/>
@@ -20,5 +21,5 @@ Thank you Bro.O for helping me make this code.<br/>
 
 -------------------------------------
 THESIS URl:
-https://library.sogang.ac.kr/search/detail/
-(Not yet Published)
+https://library.sogang.ac.kr/search/detail/(Not yet Published)
+https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000069812
