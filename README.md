@@ -20,5 +20,5 @@ Thank you Bro.O for helping me make this code.<br/>
 
 -------------------------------------
 THESIS URl: <br/>
-https://library.sogang.ac.kr/search/detail/(Not yet Published)
+https://library.sogang.ac.kr/search/detail/ (Not yet Published) <br/>
 https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000069812
