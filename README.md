@@ -19,7 +19,7 @@ Three codes run on the server side, and one program runs on the client side (STA
 Thank you Bro.O for helping me make this code.<br/>
 
 -------------------------------------
-This paper is protected by the following patents:
+This paper is protected by the following patents: <br/>
 10-2022-0162288 (Receipt number 1-1-2022-1276597-50) (DAS access code 0B94)
 ---------------------------------------------------------------------------
 THESIS URl: <br/>
