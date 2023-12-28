@@ -22,7 +22,7 @@ Thank you Bro.O for helping me make this code.<br/>
 <h4>THESIS URl: <br/>
 https://library.sogang.ac.kr/search/detail/SAT000001516756 <br/>
 https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000069812 <br/>
-https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967845
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967845 <br/>
 https://doi.org/10.33140/AMLAI.04.02.07
 <hr/>
 <h3> This thesis is protected by the following patents: <br/>
