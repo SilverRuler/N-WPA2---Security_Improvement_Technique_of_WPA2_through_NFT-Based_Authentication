@@ -23,6 +23,7 @@ Thank you Bro.O for helping me make this code.<br/>
 https://library.sogang.ac.kr/search/detail/SAT000001516756 <br/>
 https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000069812 <br/>
 https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002967845
+https://doi.org/10.33140/AMLAI.04.02.07
 <hr/>
 <h3> This thesis is protected by the following patents: <br/>
 10-2022-0162288 (Receipt number 1-1-2022-1276597-50) (DAS access code 0B94) </h3>
